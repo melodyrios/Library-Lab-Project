@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+/Users/melodyrios/Desktop/LibraryLab/.metadata/.plugins/org.eclipse.jdt.core
+3216395702.index
+1865797976.index
+3135688518.index
